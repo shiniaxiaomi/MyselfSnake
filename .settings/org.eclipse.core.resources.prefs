@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/controller/Controller.java=UTF-8
+encoding//src/entities/Food.java=UTF-8
+encoding//src/entities/Ground.java=UTF-8
+encoding//src/entities/Snake.java=UTF-8
+encoding//src/game/Game.java=UTF-8
+encoding//src/game/NewGame.java=UTF-8
+encoding//src/listener/Listener.java=UTF-8
+encoding//src/util/Global.java=UTF-8
+encoding//src/view/GamePanel.java=UTF-8
